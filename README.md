@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Tahir Naseer - [@your_twitter](https://twitter.com/imtahirnaseer) - tahirtechlab@gmail.com
+Tahir Naseer - [Twitter](https://twitter.com/imtahirnaseer) - tahirtechlab@gmail.com
 
 Project Link: [https://github.com/imtahirnaseer/Animated-Login-Page](https://github.com/imtahirnaseer/Animated-Login-Page)
 
