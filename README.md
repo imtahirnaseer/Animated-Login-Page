@@ -15,6 +15,13 @@ This project is an animated login page created using HTML, CSS, and JavaScript. 
 - **JavaScript**: For interactive elements and animations.
 - **GSAP**: GreenSock Animation Platform for advanced animations.
 
+## Access
+
+- **Live Demo**: [https://imtahirnaseer.github.io/Animated-Login-Page/](https://imtahirnaseer.github.io/Animated-Login-Page/)
+- **Source Code**: [https://github.com/imtahirnaseer/Animated-Login-Page/](https://github.com/imtahirnaseer/Animated-Login-Page/)
+- **Project Link**: [https://github.com/imtahirnaseer/Animated-Login-Page/](https://github.com/imtahirnaseer/Animated-Login-Page/)
+- **Video Link**: [https://youtu.be/ooA01ftlMkc](https://youtu.be/ooA01ftlMkc)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
